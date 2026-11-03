@@ -57,6 +57,7 @@ This project does not involve training a machine learning model or building an a
 
 ## Dashboard
 The Power BI dashboard presents support KPIs, ticket trends, channel and priority analysis, and AI-assisted ticket themes.
+![Customer Support Analytics Dashboard](customer_support_dashboard.png)
 
 ## Project Purpose
 This project demonstrates practical skills in data preparation, business reporting, dashboard development, KPI analysis, and AI-assisted text categorization for customer support analytics.
